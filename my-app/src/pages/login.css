@@ -1,0 +1,11 @@
+body{
+    background-color: darkgray;
+}
+.container{
+    margin-top: 200px;
+    margin-left: 450px;
+    width: 700px;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+
